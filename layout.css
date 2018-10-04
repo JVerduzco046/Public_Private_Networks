@@ -1,0 +1,20 @@
+/* Nav styles*/
+nav {
+    display: table;
+    width: 50%;
+
+}
+
+nav>ul {
+    display: table-row;
+}
+
+nav>ul>li {
+    display: table-cell;
+    text-align: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+
+}
