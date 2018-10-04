@@ -1,11 +1,12 @@
 /* Nav Styles */
 section#col1 ul li {
-    padding-left: 20px;
+    padding-left: 5px;
     padding-top: 10px;
+    list-style-type: upper-roman;
 }
 
 /* Heading Styles */
 h2 {
     font-size: 1em;
-    padding-left: 5px;
+    padding-left: 10px;
 }
