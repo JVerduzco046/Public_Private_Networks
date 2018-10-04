@@ -2,6 +2,20 @@
 section#col1 ul li {
     padding-left: 20px;
     padding-top: 10px;
+    text-align: center;
+}
+
+section#col1 {
+    background-color: rgb(50, 15, 175);
+    text-align: center;
+    margin-right: 50%;
+
+}
+
+section#col2 {
+    background-color: rgb(240, 40, 20);
+    text-align: center;
+    margin-left: 50%;
 }
 
 /* Heading Styles */
