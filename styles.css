@@ -19,6 +19,12 @@ section#col2 {
     margin-left: 50%;
 }
 
+section#col2 ul li {
+    padding-left: 5px;
+    padding-top: 10px;
+    list-style-type: upper-roman;
+}
+
 /* Heading Styles */
 h2 {
     font-size: 1em;
