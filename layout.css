@@ -1,14 +1,4 @@
 /* Body Styles */
-body {
-    align-content: center
-}
-
-
-/* Nav styles*/
-header {
-    padding: 0px;
-
-}
 
 header nav {
     display: table;
