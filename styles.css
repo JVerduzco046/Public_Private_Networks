@@ -1,24 +1,11 @@
 /* Nav Styles */
-* {
-    border: red;
+section#col1 ul li {
+    padding-left: 20px;
+    padding-top: 10px;
 }
 
-nav {
-    display: table;
-    width: 50%;
-
-}
-
-nav>ul {
-    display: table-row;
-}
-
-nav>ul>li {
-    display: table-cell;
-    text-align: center;
-}
-
-nav ul li a {
-    text-decoration: none;
-
+/* Heading Styles */
+h2 {
+    font-size: 1em;
+    padding-left: 5px;
 }
