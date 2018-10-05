@@ -1,3 +1,16 @@
+html {
+    background-color: brown;
+}
+
+body {
+    background-color: aqua;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1020px;
+    min-width: 640px;
+}
+
+
 /* Nav Styles */
 section#col1 ul li {
     padding-left: 5px;
