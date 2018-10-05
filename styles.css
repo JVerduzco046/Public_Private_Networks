@@ -4,19 +4,29 @@ section#col1 ul li {
     padding-top: 10px;
     list-style-type: upper-roman;
     text-align: center;
+    list-style-position: inside;
 }
 
 section#col1 {
     background-color: rgb(50, 15, 175);
     text-align: center;
-    margin-right: 50%;
+    float: left;
+}
 
+section#col1 article {
+    margin-right: 15em;
+    margin-left: 15em;
 }
 
 section#col2 {
     background-color: rgb(240, 40, 20);
     text-align: center;
-    margin-left: 50%;
+    float: right;
+}
+
+section#col2 article {
+    margin-right: 10em;
+    margin-left: 10em;
 }
 
 section#col2 ul li {
