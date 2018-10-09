@@ -1,9 +1,9 @@
 html {
-    background-color: brown;
+    background-color: #1B9AAA;
 }
 
 body {
-    background-color: aqua;
+    background-color: #69D1C5;
     margin: 0 auto;
     width: 100%;
     max-width: 1020px;
@@ -11,7 +11,30 @@ body {
 }
 
 
+
 /* Nav Styles */
+header nav {
+    background-color: #84BCDA;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    background-color: #5386E4;
+}
+
+header nav ul li a:link,
+header nav ul li a:visited {
+    color: #59D2FE;
+}
+
+header nav ul li a:hover,
+header nav ul li a:active {
+    background-color: #2DC7FF;
+    color: #0081AF;
+}
+
+
+/* Section Styles */
 section#col1 ul li {
     padding-left: 5px;
     padding-top: 10px;
@@ -21,25 +44,15 @@ section#col1 ul li {
 }
 
 section#col1 {
-    background-color: rgb(50, 15, 175);
+    background-color: #01BAEF;
     text-align: center;
-    float: left;
+
 }
 
-section#col1 article {
-    margin-right: 15em;
-    margin-left: 15em;
-}
 
 section#col2 {
-    background-color: rgb(240, 40, 20);
+    background-color: #E26874;
     text-align: center;
-    float: right;
-}
-
-section#col2 article {
-    margin-right: 10em;
-    margin-left: 10em;
 }
 
 section#col2 ul li {
