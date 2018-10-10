@@ -1,5 +1,4 @@
-/* Body Styles
-body>header>nav {
+Body Styles body>header>nav {
     display: table;
     width: 100%;
 }
@@ -22,7 +21,8 @@ body>header>nav>ul>li>a {
 body>nav {
     width: 100%;
     float: left;
-} */
+}
+
 body>header>nav {
     display: table;
     width: 100%;
@@ -71,4 +71,3 @@ h2 {
     font-size: 1em;
     padding-left: 10px;
 }
-
