@@ -1,9 +1,9 @@
 html {
-    background-color: #1B9AAA;
+    background-color: #bebebe;
 }
 
 body {
-    background-color: #69D1C5;
+    background-color: white;
     margin: 0 auto;
     width: 100%;
     max-width: 1020px;
@@ -14,23 +14,23 @@ body {
 
 /* Nav Styles */
 header nav {
-    background-color: #84BCDA;
+    background-color: #fdfffc;
 }
 
 header nav ul li a {
     text-decoration: none;
-    background-color: #5386E4;
+    background-color: #fdfffc;
 }
 
 header nav ul li a:link,
 header nav ul li a:visited {
-    color: #59D2FE;
+    color: black;
 }
 
 header nav ul li a:hover,
 header nav ul li a:active {
-    background-color: #2DC7FF;
-    color: #0081AF;
+    background-color: #bebebe;
+    color: #fdfffc;
 }
 
 
@@ -44,14 +44,14 @@ section#col1 ul li {
 }
 
 section#col1 {
-    background-color: #01BAEF;
+    background-color: #add8e6; 
     text-align: center;
 
 }
 
 
 section#col2 {
-    background-color: #E26874;
+    background-color: #add8e6;
     text-align: center;
 }
 
