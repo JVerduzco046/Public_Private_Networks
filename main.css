@@ -40,8 +40,19 @@ h1 {
     text-align: center
 }
 
-p {
-    text-align: center;
-    padding-left: 50px;
-    padding-right: 50px;
+section#col1 p {
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 1em;
+    padding-top: 5px;
+}
+
+section#col1 p:first-of-type,
+section#col1 p::first-letter {
+    tab-size: 14px;
+}
+
+img {
+    padding-left: 25%
 }
