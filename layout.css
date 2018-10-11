@@ -74,5 +74,12 @@ h2 {
 }
 
 img {
-    padding-left: 200px;
+    padding-left: 190; 
+}
+
+h1 {
+    border-bottom: 20px;
+}
+p {
+    text-align: center; 
 }
