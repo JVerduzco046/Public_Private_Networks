@@ -78,12 +78,14 @@ h2 {
     padding-left: 10px;
 }
 
+img {
+    padding-left: 190;
+}
+
 h1 {
-    padding-left: 2%;
-    text-align: center;
-    margin: 5% 5% 5% 5%;
+    border-bottom: 20px;
 }
 
 p {
-    padding-left: 5%;
+    text-align: center;
 }
