@@ -1,4 +1,5 @@
-Body Styles body>header>nav {
+/* Body Styles  */
+body>header>nav {
     display: table;
     width: 100%;
 }
@@ -23,9 +24,13 @@ body>nav {
     float: left;
 }
 
-body>header>nav {
+*/ body>header>nav {
     display: table;
     width: 100%;
+}
+
+body>header>nav>ul>li {
+    width: 25%;
 }
 
 .column {
@@ -34,7 +39,7 @@ body>header>nav {
     padding: 15px;
     text-align: center;
     background-color: #add8e6;
-    
+
 }
 
 .column2 {
@@ -71,4 +76,14 @@ body>header>nav {
 h2 {
     font-size: 1em;
     padding-left: 10px;
+}
+
+h1 {
+    padding-left: 2%;
+    text-align: center;
+    margin: 5% 5% 5% 5%;
+}
+
+p {
+    padding-left: 5%;
 }
