@@ -2,6 +2,7 @@ html {
     background-color: #69D1C5;
 }
 
+/* Sets the location of the body, the color, etc. */
 body {
     background-color: white;
     margin: 0 auto;
@@ -13,6 +14,7 @@ body {
 
 
 /* Nav Styles */
+/* The navigation has it's background color set*/
 header nav {
     background-color: #69D1C5;
 }
@@ -23,11 +25,13 @@ header nav ul li a {
     padding: 5% 0% 5% 0%;
 }
 
+/* The color of the links in the Nav were changed to black */
 header nav ul li a:link,
 header nav ul li a:visited {
     color: black;
 }
 
+/* When the nav is hovered over, it changes colors */
 header nav ul li a:hover,
 header nav ul li a:active {
     background-color: #59D2FE;
@@ -44,6 +48,7 @@ h1 {
     text-align: center
 }
 
+/* Sets the placement of the first section */
 section#col1 p {
     text-align: left;
     margin-left: 5%;

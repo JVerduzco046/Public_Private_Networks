@@ -33,6 +33,7 @@ body>header>nav>ul>li {
     width: 25%;
 }
 
+/* Sets the different column classes with their different locations and colors */
 .column {
     float: left;
     width: 45%;
