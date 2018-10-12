@@ -20,6 +20,7 @@ header nav {
 header nav ul li a {
     text-decoration: none;
     background-color: #1B9AAA;
+    padding: 5% 0% 5% 0%;
 }
 
 header nav ul li a:link,
@@ -35,6 +36,9 @@ header nav ul li a:active {
 
 
 /* Section Styles */
+h2 {
+    text-align: center;
+}
 
 h1 {
     text-align: center
